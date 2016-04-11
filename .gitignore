@@ -1,0 +1,13 @@
+*.opensdf
+*.sdf
+*.suo
+*.props
+
+/Debug/
+/Release/
+/ipch/
+/MFCApplication1/Debug/
+/MFCApplication1/Release/
+/DrawWithMouse/Debug/
+/DrawWithMouse/Release/
+

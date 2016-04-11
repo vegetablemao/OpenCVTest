@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication1", "MFCApplication1\MFCApplication1.vcxproj", "{1B430193-CC4D-4E13-8D09-D1A13B539B30}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawWithMouse", "DrawWithMouse\DrawWithMouse.vcxproj", "{79C4C0B6-80BA-47B5-BEF0-8447FD3D77FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B430193-CC4D-4E13-8D09-D1A13B539B30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B430193-CC4D-4E13-8D09-D1A13B539B30}.Debug|Win32.Build.0 = Debug|Win32
+		{1B430193-CC4D-4E13-8D09-D1A13B539B30}.Release|Win32.ActiveCfg = Release|Win32
+		{1B430193-CC4D-4E13-8D09-D1A13B539B30}.Release|Win32.Build.0 = Release|Win32
+		{79C4C0B6-80BA-47B5-BEF0-8447FD3D77FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79C4C0B6-80BA-47B5-BEF0-8447FD3D77FF}.Debug|Win32.Build.0 = Debug|Win32
+		{79C4C0B6-80BA-47B5-BEF0-8447FD3D77FF}.Release|Win32.ActiveCfg = Release|Win32
+		{79C4C0B6-80BA-47B5-BEF0-8447FD3D77FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
